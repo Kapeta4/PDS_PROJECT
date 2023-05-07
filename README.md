@@ -46,7 +46,11 @@ layoffs. Furthermore, it identifies companies that have benefitted from layoffs,
 with Netflix being the most notable example. It is important to note that
 correlation does not imply causation, and other factors may contribute to the
 observed differences in layoff percentages.
+
+
 ->Classifiers
+
+
 This code is designed to analyze data related to company layoffs. The main goal is to
 preprocess the data, explore relationships between features using visualizations, and build
 machine learning models to predict the country of a company's headquarters based on the
